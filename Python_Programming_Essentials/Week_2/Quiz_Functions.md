@@ -75,13 +75,13 @@ Which of the following is the console output that results from executing this pi
     ## Hello world
     ## Is it over yet?
 
-5.  Implement the mathematical function $f\left ( x \right )\, = \, -5x^{5}\, +\, 67x^{2}\, -\, 47$ as a Python function. Then use Python to compute the function values $f\left ( 0 \right )$, $f\left ( 1 \right )$, $f\left ( 2 \right )$ and $f\left ( 3 \right )$. Enter the maximum (largest) of these four values calculated below.
+5.  Implement the mathematical function $f\left ( x \right ) =  -5x^{5} + 67x^{2} - 47$ as a Python function. Then use Python to compute the function values $f\left ( 0 \right )$, $f\left ( 1 \right )$, $f\left ( 2 \right )$ and $f\left ( 3 \right )$. Enter the maximum (largest) of these four values calculated below.
 
 A common error for this question is to fail to read the directions above carefully and submit your answer in the incorrect form. As a coder, always remember to note exactly what answers your code (and quiz questions) should produce.
 
 **Answer:** 61
 
-6.  When investing money, an important concept to know is compound interest. The equation $FV\, = \, PV\left ( 1\, +\, rate \right )^{periods}$ relates the following four quantities.
+6.  When investing money, an important concept to know is compound interest. The equation $FV =  PV\left ( 1 + rate \right )^{periods}$ relates the following four quantities.
 
 -   The present value *(PV)* of your money is how much money you have now.
 
