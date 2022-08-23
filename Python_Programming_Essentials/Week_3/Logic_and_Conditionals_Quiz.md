@@ -1,10 +1,10 @@
 # Logic and Conditionals Quiz
 
-1. Which of the following are Boolean values in Python?
+1.  Which of the following are Boolean values in Python?
 
 **Answer:** `False`, `True`
 
-2. Consider the Boolean expression not (p or not q). Give the four following values in order, separated only by spaces:
+2.  Consider the Boolean expression not (p or not q). Give the four following values in order, separated only by spaces:
 
 the value of the expression when p is `True`, and q is `True`,
 
@@ -18,7 +18,7 @@ Remember, each of the four results you provide should be `True` or `False` with 
 
 **Answer:** `False False True False`
 
-3. Given the following initialization:
+3.  Given the following initialization:
 
 ```{python}
 bool1 = True
@@ -29,11 +29,11 @@ Which of the expressions below evaluate to `True`?
 
 **Answer:**
 
-- not False
-- bool1 != False
-- not (bool1 == bool2)
+-   not False
+-   bool1 != False
+-   not (bool1 == bool2)
 
-4. Two expressions are *logically equivalent* if they have the same value for all possible values of the variables that comprise the expression.
+4.  Two expressions are *logically equivalent* if they have the same value for all possible values of the variables that comprise the expression.
 
 Given two numbers num1 and num2, which one of the expressions below is logically equivalent to the following arithmetic comparison:
 
@@ -47,11 +47,11 @@ num1 >= num2
 (num1 > num2) or (num1 == num2)
 ```
 
-5. An if statement can have how many else parts?
+5.  An if statement can have how many else parts?
 
 **Answer:** 1
 
-6. In Python, conditional statements may be nested.  Consider the following function that takes two Boolean values as input and returns a Boolean value.
+6.  In Python, conditional statements may be nested. Consider the following function that takes two Boolean values as input and returns a Boolean value.
 
 ```{python}
 def nand(bool1, bool2):
@@ -73,13 +73,13 @@ Which Boolean expression below is logically equivalent to the function call `nan
 
 **Answer:** `not (bool1 and bool2)`
 
-7. The [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture#Statement_of_the_problem) is an example of a simple computational process whose behavior is so unpredictable that the world's best mathematicians still don't understand it.
+7.  The [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture#Statement_of_the_problem) is an example of a simple computational process whose behavior is so unpredictable that the world's best mathematicians still don't understand it.
 
-Consider the simple function $f\left ( n \right )$ (as defined in the Wikipedia page above) that takes an integer *n* and divides it by two if *n* is even and multiplies *n* by 3 and then adds one to the result if *n* is odd. The conjecture involves studying the value of expressions of the form $f\left ( f\left ( f\left ( ...f\left ( f\left ( n \right ) \right ) \right ) \right ) \right )$ as the number of calls to the function *f* increases.  The conjecture is that, for any non-negative integer *n*, repeated application of *f* to *n* yields a sequence of integers that always includes 1.
+Consider the simple function $f\left ( n \right )$ (as defined in the Wikipedia page above) that takes an integer *n* and divides it by two if *n* is even and multiplies *n* by 3 and then adds one to the result if *n* is odd. The conjecture involves studying the value of expressions of the form $f\left ( f\left ( f\left ( ...f\left ( f\left ( n \right ) \right ) \right ) \right ) \right )$ as the number of calls to the function *f* increases. The conjecture is that, for any non-negative integer *n*, repeated application of *f* to *n* yields a sequence of integers that always includes 1.
 
-Your task for this question is to implement the Collatz function *f* The key to your implementation is to build  a test that determines whether *n* is even or odd by checking whether the remainder when *n* is divided by 2 is either zero or one. **Hint:** You can compute this remainder in Python using the remainder opertor `%` via the expression `n % 2`. Note you will also need to use integer division `//` when computing *f*.
+Your task for this question is to implement the Collatz function *f* The key to your implementation is to build a test that determines whether *n* is even or odd by checking whether the remainder when *n* is divided by 2 is either zero or one. **Hint:** You can compute this remainder in Python using the remainder opertor `%` via the expression `n % 2`. Note you will also need to use integer division `//` when computing *f*.
 
-Once you have implemented *f* test the your implementation on the expression $f\left ( f\left ( f\left ( f\left ( f\left ( f\left ( f\left ( 674 \right ) \right ) \right ) \right ) \right ) \right ) \right )$. This expression should evaluate to 190.  Finally, compute the value of the expression $f\left ( f\left ( f\left ( f\left ( f\left ( f\left ( f\left ( f\left ( f\left ( f\left ( f\left ( f\left ( f\left ( f\left ( 1071 \right ) \right ) \right ) \right ) \right ) \right ) \right ) \right ) \right ) \right ) \right ) \right ) \right ) \right )$ and enter the result below as an integer.  Remember to use copy and paste when moving the expressions above into your Python environment. Never try to retype expressions by hand.
+Once you have implemented *f* test the your implementation on the expression *f(f(f(f(f(f(f(674)))))))*. This expression should evaluate to 190. Finally, compute the value of the expression *f(f(f(f(f(f(f(f(f(f(f(f(f(f(1071))))))))))))))* and enter the result below as an integer. Remember to use copy and paste when moving the expressions above into your Python environment. Never try to retype expressions by hand.
 
 ```{python}
 def collatz_function(n = None, nested = 1):
@@ -102,7 +102,7 @@ print(collatz_function(n = 674, nested = 7))
 print(collatz_function(n = 1071, nested = 14))
 ```
 
-    ## 190
-    ## 3053
+    190
+    3053
 
 **Answer:** 3053
