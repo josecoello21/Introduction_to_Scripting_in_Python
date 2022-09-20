@@ -1,5 +1,7 @@
 # Practice Project: Rock-Paper-Scissors-Lizard-Spock
 
+**NOTE:** The practice project functions can be executed in  [CodeSkulptor3/Rock-Paper-Scissors-Lizard-Spock](https://py3.codeskulptor.org/#user307_01NkeiV0qw_1.py)
+
 ```{python}
 """
 Week 4 practice project template for Python Programming Essentials

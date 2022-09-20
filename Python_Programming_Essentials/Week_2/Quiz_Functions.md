@@ -1,6 +1,6 @@
 # Functions Quiz
 
-**NOTE:** The functions for questions 5, 6 and 7 can be executed in [CodeSkulptor3](https://py3.codeskulptor.org/#user307_0omLBDPsMg_3.py){:target="_blank"}
+**NOTE:** The functions for questions 5, 6 and 7 can be executed in [CodeSkulptor3/Functions_Quiz](https://py3.codeskulptor.org/#user307_0omLBDPsMg_3.py)
 
 1.  Consider the following Python function definition:
 
@@ -35,7 +35,7 @@ def max_of_3(val1, val2, val3):
 
 3.  The following code has a number of syntactic errors in it. The intended math calculations are correct, so the only errors are syntactic. Fix these errors.
 
-Once the code has been fully corrected, it should print out two numbers. The first should be 1.09888451159. Submit the second number printed in [CodeSkulptor3](http://py3.codeskulptor.org/){:target="_blank"}. Make sure that you enter at least four digits after the decimal point.
+Once the code has been fully corrected, it should print out two numbers. The first should be 1.09888451159. Submit the second number printed in [CodeSkulptor3](http://py3.codeskulptor.org/). Make sure that you enter at least four digits after the decimal point.
 
 ```{python}
 define project_to_distance(point_x point_y distance):

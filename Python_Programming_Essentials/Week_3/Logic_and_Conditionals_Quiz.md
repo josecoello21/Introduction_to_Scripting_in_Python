@@ -1,5 +1,7 @@
 # Logic and Conditionals Quiz
 
+**NOTE:** The function to question 7 can be executed in [CodeSkulptor3/Logic_Conditionals_Quiz](https://py3.codeskulptor.org/#user307_vJxZR1LbRg_2.py)
+
 1.  Which of the following are Boolean values in Python?
 
 **Answer:** `False`, `True`
