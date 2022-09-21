@@ -1,9 +1,11 @@
 # Strings Quiz
 
 **NOTE:** 
-- The functions for questions 6 and 7 can be executed in [CodeSkulptor3/Strings_Quiz](https://py3.codeskulptor.org/#user307_MYVcul3A4d_1.py/)
+- The functions for questions 6 and 7 can be executed in [CodeSkulptor3/Strings_Quiz](https://py3.codeskulptor.org/#user307_MYVcul3A4d_1.py)
 
-- The functions for the Practice Exercises for Lists can be executed in [CodeSkulptor3/Practice_Exercises](https://py3.codeskulptor.org/#user307_My0kRGcvLI_1.py/)
+- The functions for the Practice Exercises for Lists can be executed in [CodeSkulptor3/Practice_Exercises](https://py3.codeskulptor.org/#user307_My0kRGcvLI_1.py)
+
+## Questions
 
 1. Which of the expressions below select the last character in the string "Grail"?
 

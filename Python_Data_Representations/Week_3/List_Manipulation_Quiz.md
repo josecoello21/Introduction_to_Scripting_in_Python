@@ -1,9 +1,11 @@
 # List Manipulation Quiz
 
 **NOTE:** 
-- The functions for questions 6 and 7 can be executed in [CodeSkulptor3/Lists_Manipulation_Quiz](https://py3.codeskulptor.org/#user307_IjLwwQO5ZB_5.py/)
+- The functions for questions 6 and 7 can be executed in [CodeSkulptor3/Lists_Manipulation_Quiz](https://py3.codeskulptor.org/#user307_IjLwwQO5ZB_5.py)
 
-- The functions for Practice Exercises for List Manipulation can be executed in [CodeSkulptor3/Practice_Exercises](https://py3.codeskulptor.org/#user307_thIVtN28sg_1.py/)
+- The functions for Practice Exercises for List Manipulation can be executed in [CodeSkulptor3/Practice_Exercises](https://py3.codeskulptor.org/#user307_thIVtN28sg_1.py)
+
+## Questions
 
 1. Given the list my_list = [1, 3, 5, 7, 9], which of the following slices returns the list [3, 5, 7, 9]?
 

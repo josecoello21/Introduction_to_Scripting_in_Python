@@ -1,9 +1,12 @@
 # Lists Quiz
 
 **NOTE:** 
-- The function to question 7 can be executed in [CodeSkulptor3/Lists_Quiz](https://py3.codeskulptor.org/#user307_iv4DqvXRCc_0.py/)
+- The function to question 7 can be executed in [CodeSkulptor3/Lists_Quiz](https://py3.codeskulptor.org/#user307_iv4DqvXRCc_0.py)
 
-- The functions for the Practice Exercises for Lists can be executed in [CodeSkulptor3/Practice_Exercises](https://py3.codeskulptor.org/#user307_TAZrpYx3EG_0.py/)
+- The functions for the Practice Exercises for Lists can be executed in [CodeSkulptor3/Practice_Exercises](https://py3.codeskulptor.org/#user307_TAZrpYx3EG_0.py)
+
+
+## Questions
 
 
 1. Which of the following expressions  evaluates to the list [0,  1, 2, 3, 4, 5]?
