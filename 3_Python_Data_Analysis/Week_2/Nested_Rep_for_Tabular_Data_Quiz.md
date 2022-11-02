@@ -1,7 +1,6 @@
 # Nested Representations for Tabular Data Quiz
 
 **NOTE:** 
-cambiar
 - The functions for questions 4, 5 and 7 can be executed in [CodeSkulptor3/Nested Rep. for Tabular Data](https://py3.codeskulptor.org/#user307_sVYpHAsRQM_1.py)
 
 - The functions for the Practice Exercises for Nested Data Structures can be executed in [CodeSkulptor3/Practice_Exercises](https://py3.codeskulptor.org/#user307_TJhQ8ZHYvy_1.py)
