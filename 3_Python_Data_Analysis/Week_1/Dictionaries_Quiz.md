@@ -1,9 +1,9 @@
 # Dictionaries Quiz
 
 **NOTE:** 
-- The function to question 7 can be executed in [CodeSkulptor3/Lists_Quiz](https://py3.codeskulptor.org/#user307_K8KeBlDtGG_2.py)
+- The function to question 7 can be executed in [CodeSkulptor3/Dictionaries_Quiz](https://py3.codeskulptor.org/#user307_K8KeBlDtGG_2.py)
 
-- The functions for the Practice Exercises for Lists can be executed in [CodeSkulptor3/Practice_Exercises](https://py3.codeskulptor.org/#user307_blOIbNEmnl_0.py)
+- The functions for the Practice Exercises for Dictionaries can be executed in [CodeSkulptor3/Practice_Exercises](https://py3.codeskulptor.org/#user307_blOIbNEmnl_0.py)
 
 ## Questions
 
